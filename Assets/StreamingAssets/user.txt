@@ -1,0 +1,1 @@
+{"id":"7jse17","name":"7jse17","canDraw":true,"isRoomer":true}
